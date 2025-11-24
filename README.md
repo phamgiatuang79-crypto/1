@@ -4,9 +4,7 @@
   <meta charset="UTF-8" />
   <title>Tỏ tình Tuấn & Thanh</title>
   <style>
-    body { background: #ffe6ea; font-family: sans-serif; text-align: center; padding-top: 70px; }
-    a { display: inline-block; margin: 20px; padding: 15px 25px; background: #ff3366; color: white; text-decoration: none; border-radius: 10px; font-size: 20px; }
-    a:hover { background: #ff6688; }
+  
   </style>
 </head>
 <body>
