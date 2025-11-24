@@ -3,9 +3,7 @@
 <head>
   <meta charset="UTF-8" />
  
-  <style>
-  
-  </style>
+
 </head>
 <body>
   <h1>Tuấn iuuu Thanh rất nhiều ❤️</h1>
